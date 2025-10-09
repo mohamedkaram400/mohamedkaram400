@@ -37,6 +37,7 @@
         <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
         <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
       </div>
     </td>
     <td width="45%">
