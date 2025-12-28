@@ -17,11 +17,6 @@
   I’m a dedicated Backend Developer with over 2 years of experience building scalable and secure web applications using Laravel and PHP. My expertise lies in developing RESTful APIs, optimizing performance, and integrating third-party services like payment gateways (Stripe, PayPal) and AI APIs (ChatGPT). I improved API response times by 30% using Redis caching and collaborated with front-end teams to deliver seamless user experiences with Vue.js.
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedkaram400&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=mohamedkaram400&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" /> -->
-</p>
-
 ---
 
 ## 🚀 Skills & Technologies
