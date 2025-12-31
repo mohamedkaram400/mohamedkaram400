@@ -11,6 +11,15 @@
 
 ---
 
+<p align="center">
+<img
+  src="https://github-statspro.vercel.app/api/stats/mohamedkaram400?theme=default"
+  alt="Stats Card"
+/>
+</p>
+
+---
+
 ## 📊 About Me
 
 <p align="center">
